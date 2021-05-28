@@ -22,7 +22,7 @@ h1{
     color: white;
 }
 .dadi{
-    background-image: url(img/dadi.jpg);
+    background-image: url(../img/dadi.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     
